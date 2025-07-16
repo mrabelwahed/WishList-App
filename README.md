@@ -2,7 +2,7 @@
 
 A beautifully simple Wish List app built using **SwiftUI** and **SwiftData** — allowing users to add, delete, and count their wishes with seamless performance and minimal code.
 
-![SwiftUI + SwiftData](https://github.com/your-username/WishListApp/assets/banner.png)
+![SwiftUI + SwiftData](https://github.com/mrabelwahed/WishList-App/blob/main/ChatGPT%20Image%20Jul%2016%2C%202025%2C%2004_35_59%20PM.png)
 
 ## ✨ Features
 
