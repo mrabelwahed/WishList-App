@@ -22,7 +22,8 @@ A beautifully simple Wish List app built using **SwiftUI** and **SwiftData** —
 
 | Home View | Add Wish | Empty State |
 |-----------|----------|-------------|
-| ![screenshot1](assets/home.png) | ![screenshot2](assets/add.png) | ![screenshot3](assets/empty.png) |
+| ![screenshot1](
+https://github.com/mrabelwahed/WishList-App/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-07-16%20at%2017.01.14.png) | ![screenshot2](https://github.com/mrabelwahed/WishList-App/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-07-16%20at%2017.01.29.png) | ![screenshot3](https://github.com/mrabelwahed/WishList-App/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-07-16%20at%2017.01.34.png) |
 
 ## 🚀 Getting Started
 
