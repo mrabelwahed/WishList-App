@@ -36,7 +36,7 @@ A beautifully simple Wish List app built using **SwiftUI** and **SwiftData** —
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/WishListApp.git
+   git clone https://github.com/mrabelwahed/WishListApp.git
    
 open WhishList.xcodeproj
 
